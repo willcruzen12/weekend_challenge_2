@@ -1,0 +1,21 @@
+body {
+  margin: 50px;
+  background-color: skyblue;
+}
+.container h3 {
+  font-size: 18px;
+    margin-top: 2px;
+}
+
+.container {
+    background-color: white ;
+    width: auto;
+    float: left;
+    margin: 20px;
+    padding: 20px;
+    border: 3px dotted gray;
+}
+button {
+  float: left;
+  display: inline-block;
+}
